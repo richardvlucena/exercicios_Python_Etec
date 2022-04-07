@@ -199,7 +199,7 @@ elif pontost >2 and pontos <5: # 3 e 4
     print("Total de pontos : {}".format(pontost))
     print("SEU CONHECIMENTO EH BASICO")
 
-else:
+else:				#2 e 0
     print("Total de pontos : {}".format(pontost))
     print("VOCE EH UM NOOB NESTE ASSUNTO")
 
